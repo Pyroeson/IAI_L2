@@ -1,3 +1,12 @@
+
 body{
-background:blue;
+    background:blue;
+    color:white;
 }
+ul { background: black;
+}
+
+ul li{
+    display: inline;
+}
+
