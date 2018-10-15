@@ -1,8 +1,5 @@
 
-body{
-    background:blue;
-    color:white;
-}
+
 ul { background: black;
 }
 
@@ -10,3 +7,10 @@ ul li{
     display: inline;
 }
 
+.home-bg{
+    background:palegoldenrod;
+}
+
+.contact-bg{
+    background:yellowgreen;
+}
