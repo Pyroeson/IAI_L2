@@ -1,5 +1,4 @@
 
-
 ul { background: black;
 }
 
@@ -13,4 +12,30 @@ ul li{
 
 .contact-bg{
     background:yellowgreen;
+}
+
+.mapa{
+width: 100%;
+}
+
+p{
+	margin: 5px;
+}
+
+a{
+    backround-color: green;
+    transition: all 1s;
+    padding: 3px;
+
+}
+a:hover{
+    background-color: gold;
+
+}
+.lista{
+	background-color: white;
+}
+
+.lista li{
+display: block;
 }
