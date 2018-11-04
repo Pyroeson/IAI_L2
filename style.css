@@ -1,9 +1,53 @@
+.myButton:hover{
+    background-color: grey;
+}
+.napisy{
+	 border-top-left-radius: 15px;
+	 border-bottom-right-radius: 15px;
+}
+.myButton{
+    display: none;
+    position: fixed;
+    bottom: 20px;
+    right: 30px;
+    z-index: 99;
+    font-size: 18px;
+    border: none;
+    outline: none;
+    background-color: red;  
+	color: yellow;
+    cursor: pointer;
+    padding: 15px;
+    border-radius: 10px;
+}
 
-ul { background: black;
+.is-invalid{
+    border: solid 1px red;
+}
+
+.wiek{
+	width: 50px;
+}
+.napis{
+	color: red;
+}
+
+.zdjecie{
+	width: 100%;
+}
+
+ul{ 
+	background: black;
+	height: 37px;
+	font-size: x-large;
 }
 
 ul li{
     display: inline;
+}
+
+.map-bg{
+	background:#ECECEC;
 }
 
 .home-bg{
@@ -11,11 +55,11 @@ ul li{
 }
 
 .contact-bg{
-    background:yellowgreen;
+    background:#99FFFF;
 }
 
 .mapa{
-width: 100%;
+	width: 100%;
 }
 
 p{
@@ -23,19 +67,20 @@ p{
 }
 
 a{
-    backround-color: green;
     transition: all 1s;
     padding: 3px;
-
 }
+
 a:hover{
     background-color: gold;
-
+	text-decoration: none;  
 }
+
 .lista{
-	background-color: white;
+	background-color:#ECECEC;
 }
 
 .lista li{
-display: block;
+	display: block;
+	
 }
