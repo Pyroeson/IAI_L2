@@ -1,3 +1,9 @@
+
+.navbar{
+ width: 100%;
+    background: #000033;
+}
+
 .display_off {
     display: none;
 }
@@ -87,7 +93,7 @@ button {
 	width: 100%;
 }
 
-ul{ 
+ul{
 	background: #000033;
 	height: 37px;
 	font-size: x-large;

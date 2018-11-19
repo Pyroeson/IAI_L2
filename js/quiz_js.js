@@ -303,5 +303,3 @@ function zero(){
 		remove_class(answers[3],'stop');
     });
 }
-
-
